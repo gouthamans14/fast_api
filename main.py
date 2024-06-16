@@ -8,4 +8,4 @@ def index():
 
 @app.get("/about")
 def about():
-    return {"data":"Page"}
+    return {"data":"Hello"}
